@@ -12,7 +12,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-
+- [Acknowledgments](#Acknowledgments)
 
 
 ## Overview
@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution URL](https://your-solution-url.com)
-- Live Site URL: [My live site URL](https://your-live-site-url.com)
+- Solution URL: [My solution URL](https://www.frontendmentor.io/solutions/order-summary-component-O2y7OsVYg)
+- Live Site URL: [My live site URL](https://mehdi-adham.github.io/order-summary-component/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-use screen media.
+I'm use screen media.
 
 ```css
 @media screen and (min-width: 768px) {
@@ -68,3 +68,7 @@ use screen media.
 - Website - [Mehdi Adham](https://github.com/mehdi-adham)
 - Frontend Mentor - [@mehdi-adham](https://www.frontendmentor.io/profile/mehdi-adham)
 
+
+## Acknowledgments
+
+Thanks so much to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/order-summary-component-O2y7OsVYg). It definitely helps to find new ways to code and find easier solutions!
